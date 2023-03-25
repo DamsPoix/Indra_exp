@@ -12,7 +12,7 @@ Connection with USB B micro connector.
   <img 
     width="300"
     height="300"
-    src= ""
+    src= "Versions_img/INDRA_PCB_v1_1.png"
   >
 </p>
 
