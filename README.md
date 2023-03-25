@@ -8,4 +8,13 @@ Buck converter : TPS54283PWPR
 µC on the PCB : RP2040
 Connection with USB B micro connector. 
 
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src= ""
+  >
+</p>
+
+
 UPDATE in coming ...
