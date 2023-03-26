@@ -16,5 +16,4 @@ Connection with USB B micro connector.
   >
 </p>
 
-
-UPDATE in coming ...
+Activation of a DC motor to control the roll of the rocket is add with a Mosfet and a PWM.
